@@ -1,3 +1,9 @@
-section {
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  height: 100vh;
   border: 1px solid black;
 }

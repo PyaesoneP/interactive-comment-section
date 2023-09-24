@@ -1,9 +1,10 @@
 import './Card.css'
+import User from './User.jsx';
 
 const Card = () => {
     return (
         <section>
-            <p>Hello</p>
+            <User />
         </section>
     )
 }
